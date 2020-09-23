@@ -507,7 +507,7 @@ ON_LED_Gimbal
 Text GLabel 6350 2600 0    39   Input ~ 0
 ON_LED_DriveCommand
 Text GLabel 6350 2950 0    39   Input ~ 0
-ON_LED_NacigationalControl
+ON_LED_NavigationalControl
 Text GLabel 6350 3350 0    39   Input ~ 0
 ON_LED_12VDistribution
 Text GLabel 6350 3700 0    39   Input ~ 0
@@ -919,7 +919,7 @@ REC_LED_Gimbal
 Text GLabel 8400 2600 0    39   Input ~ 0
 REC_LED_DriveCommand
 Text GLabel 8400 2950 0    39   Input ~ 0
-REC_LED_NacigationalControl
+REC_LED_NavigationalControl
 Text GLabel 8400 3350 0    39   Input ~ 0
 REC_LED_12VDistribution
 Text GLabel 8400 3700 0    39   Input ~ 0
@@ -1309,7 +1309,7 @@ ON_LED_Gimbal
 Text GLabel 1450 2100 2    39   Output ~ 0
 ON_LED_DriveCommand
 Text GLabel 1450 2750 2    39   Output ~ 0
-ON_LED_NacigationalControl
+ON_LED_NavigationalControl
 Text GLabel 1450 2850 2    39   Output ~ 0
 ON_LED_12VDistribution
 Text GLabel 1450 3050 2    39   Output ~ 0
@@ -1335,7 +1335,7 @@ REC_LED_Gimbal
 Text GLabel 3500 2100 0    39   Output ~ 0
 REC_LED_DriveCommand
 Text GLabel 3500 2750 0    39   Output ~ 0
-REC_LED_NacigationalControl
+REC_LED_NavigationalControl
 Text GLabel 3500 2850 0    39   Output ~ 0
 REC_LED_12VDistribution
 Text GLabel 3500 3050 0    39   Output ~ 0
