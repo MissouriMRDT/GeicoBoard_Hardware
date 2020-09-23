@@ -501,7 +501,7 @@ ON_LED_ArmArticulation
 Text GLabel 6350 1500 0    39   Input ~ 0
 ON_LED_ScienceSensor
 Text GLabel 6350 1900 0    39   Input ~ 0
-ON_LED_SciencnActuation
+ON_LED_ScienceActuation
 Text GLabel 6350 2250 0    39   Input ~ 0
 ON_LED_Gimbal
 Text GLabel 6350 2600 0    39   Input ~ 0
@@ -913,7 +913,7 @@ REC_LED_ArmArticulation
 Text GLabel 8400 1500 0    39   Input ~ 0
 REC_LED_ScienceSensor
 Text GLabel 8400 1900 0    39   Input ~ 0
-REC_LED_SciencnActuation
+REC_LED_ScienceActuation
 Text GLabel 8400 2250 0    39   Input ~ 0
 REC_LED_Gimbal
 Text GLabel 8400 2600 0    39   Input ~ 0
@@ -1001,7 +1001,7 @@ U 1 1 5F6CB0FA
 P 9900 1200
 F 0 "J1" H 9950 1417 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 1350 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 1200 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 1200 50  0001 C CNN
 F 3 "~" H 9900 1200 50  0001 C CNN
 	1    9900 1200
 	1    0    0    -1  
@@ -1028,7 +1028,7 @@ U 1 1 5F6DEC91
 P 9900 1650
 F 0 "J2" H 9950 1867 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 1800 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 1650 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 1650 50  0001 C CNN
 F 3 "~" H 9900 1650 50  0001 C CNN
 	1    9900 1650
 	1    0    0    -1  
@@ -1055,7 +1055,7 @@ U 1 1 5F6E16C5
 P 9900 2100
 F 0 "J3" H 9950 2317 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 2250 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 2100 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 2100 50  0001 C CNN
 F 3 "~" H 9900 2100 50  0001 C CNN
 	1    9900 2100
 	1    0    0    -1  
@@ -1082,7 +1082,7 @@ U 1 1 5F6E16D5
 P 9900 2550
 F 0 "J4" H 9950 2767 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 2700 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 2550 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 2550 50  0001 C CNN
 F 3 "~" H 9900 2550 50  0001 C CNN
 	1    9900 2550
 	1    0    0    -1  
@@ -1109,7 +1109,7 @@ U 1 1 5F6E4792
 P 9900 3000
 F 0 "J5" H 9950 3217 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 3150 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 3000 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 3000 50  0001 C CNN
 F 3 "~" H 9900 3000 50  0001 C CNN
 	1    9900 3000
 	1    0    0    -1  
@@ -1136,7 +1136,7 @@ U 1 1 5F6E47A2
 P 9900 3450
 F 0 "J6" H 9950 3667 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 3600 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 3450 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 3450 50  0001 C CNN
 F 3 "~" H 9900 3450 50  0001 C CNN
 	1    9900 3450
 	1    0    0    -1  
@@ -1163,7 +1163,7 @@ U 1 1 5F6E47B2
 P 9900 3900
 F 0 "J7" H 9950 4117 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 4050 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 3900 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 3900 50  0001 C CNN
 F 3 "~" H 9900 3900 50  0001 C CNN
 	1    9900 3900
 	1    0    0    -1  
@@ -1190,7 +1190,7 @@ U 1 1 5F6E47C2
 P 9900 4350
 F 0 "J8" H 9950 4567 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 4500 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 4350 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 4350 50  0001 C CNN
 F 3 "~" H 9900 4350 50  0001 C CNN
 	1    9900 4350
 	1    0    0    -1  
@@ -1217,7 +1217,7 @@ U 1 1 5F6E872F
 P 9900 4900
 F 0 "J9" H 9950 5117 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 10150 5050 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin" H 9900 4900 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 9900 4900 50  0001 C CNN
 F 3 "~" H 9900 4900 50  0001 C CNN
 	1    9900 4900
 	1    0    0    -1  
@@ -1300,23 +1300,23 @@ Wire Notes Line
 	5350 400  5350 7800
 Text GLabel 1450 1400 2    39   Output ~ 0
 ON_LED_ArmArticulation
-Text GLabel 1450 1500 2    39   Output ~ 0
+Text GLabel 1450 1800 2    39   Output ~ 0
 ON_LED_ScienceSensor
-Text GLabel 1450 1700 2    39   Output ~ 0
-ON_LED_SciencnActuation
-Text GLabel 1450 1900 2    39   Output ~ 0
+Text GLabel 3500 1200 0    39   Output ~ 0
+ON_LED_ScienceActuation
+Text GLabel 3500 1600 0    39   Output ~ 0
 ON_LED_Gimbal
-Text GLabel 1450 2100 2    39   Output ~ 0
+Text GLabel 3500 1900 0    39   Output ~ 0
 ON_LED_DriveCommand
 Text GLabel 1450 2750 2    39   Output ~ 0
 ON_LED_NavigationalControl
-Text GLabel 1450 2850 2    39   Output ~ 0
+Text GLabel 1450 3150 2    39   Output ~ 0
 ON_LED_12VDistribution
-Text GLabel 1450 3050 2    39   Output ~ 0
+Text GLabel 3500 2550 0    39   Output ~ 0
 ON_LED_BatteryManagement
-Text GLabel 1450 3250 2    39   Output ~ 0
+Text GLabel 3500 2950 0    39   Output ~ 0
 ON_LED_PackVoltageDistribution
-Text GLabel 1450 3450 2    39   Output ~ 0
+Text GLabel 3500 3250 0    39   Output ~ 0
 ON_LED_Multimedia
 Wire Wire Line
 	4450 900  4550 900 
@@ -1324,60 +1324,60 @@ Wire Wire Line
 	4550 900  4550 1000
 Wire Wire Line
 	4450 900  4450 1200
-Text GLabel 3500 1400 0    39   Output ~ 0
+Text GLabel 1450 1500 2    39   Output ~ 0
 REC_LED_ArmArticulation
-Text GLabel 3500 1500 0    39   Output ~ 0
+Text GLabel 1450 1900 2    39   Output ~ 0
 REC_LED_ScienceSensor
+Text GLabel 3500 1300 0    39   Output ~ 0
+REC_LED_ScienceActuation
 Text GLabel 3500 1700 0    39   Output ~ 0
-REC_LED_SciencnActuation
-Text GLabel 3500 1900 0    39   Output ~ 0
 REC_LED_Gimbal
-Text GLabel 3500 2100 0    39   Output ~ 0
+Text GLabel 3500 2000 0    39   Output ~ 0
 REC_LED_DriveCommand
-Text GLabel 3500 2750 0    39   Output ~ 0
+Text GLabel 1450 2850 2    39   Output ~ 0
 REC_LED_NavigationalControl
-Text GLabel 3500 2850 0    39   Output ~ 0
+Text GLabel 1450 3250 2    39   Output ~ 0
 REC_LED_12VDistribution
-Text GLabel 3500 3050 0    39   Output ~ 0
+Text GLabel 3500 2650 0    39   Output ~ 0
 REC_LED_BatteryManagement
-Text GLabel 3500 3250 0    39   Output ~ 0
+Text GLabel 3500 3050 0    39   Output ~ 0
 REC_LED_PackVoltageDistribution
-Text GLabel 3500 3450 0    39   Output ~ 0
+Text GLabel 3500 3350 0    39   Output ~ 0
 REC_LED_Multimedia
 Wire Wire Line
 	1400 1400 1450 1400
 Wire Wire Line
-	1400 1500 1450 1500
+	1400 1800 1450 1800
 Wire Wire Line
-	1400 1700 1450 1700
+	3550 1200 3500 1200
 Wire Wire Line
-	1400 1900 1450 1900
+	3550 1600 3500 1600
 Wire Wire Line
-	1400 2100 1450 2100
+	3550 1900 3500 1900
 Wire Wire Line
 	1400 2750 1450 2750
 Wire Wire Line
-	1400 2850 1450 2850
+	1400 3150 1450 3150
 Wire Wire Line
-	1400 3050 1450 3050
+	3550 2550 3500 2550
 Wire Wire Line
-	1400 3250 1450 3250
+	3550 2950 3500 2950
 Wire Wire Line
-	3500 1400 3550 1400
+	1450 1500 1400 1500
 Wire Wire Line
-	3500 1500 3550 1500
+	1450 1900 1400 1900
+Wire Wire Line
+	3500 1300 3550 1300
 Wire Wire Line
 	3500 1700 3550 1700
 Wire Wire Line
-	3500 1900 3550 1900
+	3500 2000 3550 2000
 Wire Wire Line
-	3500 2100 3550 2100
+	3550 3250 3500 3250
 Wire Wire Line
-	1400 3450 1450 3450
+	1450 3250 1400 3250
 Wire Wire Line
-	3500 2850 3550 2850
-Wire Wire Line
-	3500 3050 3550 3050
+	3500 2650 3550 2650
 Wire Wire Line
 	-2300 1650 -2250 1650
 Wire Wire Line
@@ -1385,55 +1385,55 @@ Wire Wire Line
 Wire Wire Line
 	-2300 1950 -2250 1950
 Wire Wire Line
-	3500 2750 3550 2750
+	1450 2850 1400 2850
 Wire Wire Line
-	3500 3250 3550 3250
+	3500 3050 3550 3050
 Wire Wire Line
-	3500 3450 3550 3450
-Text GLabel 4500 1400 2    39   Input ~ 0
+	3500 3350 3550 3350
+Text GLabel 1450 1600 2    39   Input ~ 0
 Send_ArmArticulation
-Text GLabel 4500 1500 2    39   Input ~ 0
+Text GLabel 1450 2000 2    39   Input ~ 0
 Send_ScienceSensor
-Text GLabel 4500 1700 2    39   Input ~ 0
+Text GLabel 3500 1400 0    39   Input ~ 0
 Send_ScienceActuation
-Text GLabel 4500 1900 2    39   Input ~ 0
+Text GLabel 3500 1800 0    39   Input ~ 0
 Send_Gimbal
-Text GLabel 4500 2100 2    39   Input ~ 0
+Text GLabel 3500 2100 0    39   Input ~ 0
 Send_DriveCommand
-Text GLabel 4500 2750 2    39   Input ~ 0
+Text GLabel 1450 2950 2    39   Input ~ 0
 Send_NavigationalControl
-Text GLabel 4500 2850 2    39   Input ~ 0
+Text GLabel 1450 3350 2    39   Input ~ 0
 Send_12VDistribution
-Text GLabel 4500 3050 2    39   Input ~ 0
+Text GLabel 3500 2750 0    39   Input ~ 0
 Send_BatteryManagement
-Text GLabel 4500 3250 2    39   Input ~ 0
+Text GLabel 3500 3150 0    39   Input ~ 0
 Send_PackVoltageDistribution
-Text GLabel 4500 3450 2    39   Input ~ 0
+Text GLabel 3500 3450 0    39   Input ~ 0
 Send_Multimedia
 Wire Wire Line
 	4450 2550 4450 2450
 Wire Wire Line
 	4450 2450 4600 2450
 Wire Wire Line
-	4450 2750 4500 2750
+	1400 2950 1450 2950
 Wire Wire Line
-	4450 2850 4500 2850
+	1400 3350 1450 3350
 Wire Wire Line
-	4450 3050 4500 3050
+	3550 2750 3500 2750
 Wire Wire Line
-	4450 3250 4500 3250
+	3550 3150 3500 3150
 Wire Wire Line
-	4450 3450 4500 3450
+	3550 3450 3500 3450
 Wire Wire Line
-	4450 1400 4500 1400
+	1400 1600 1450 1600
 Wire Wire Line
-	4450 1500 4500 1500
+	1400 2000 1450 2000
 Wire Wire Line
-	4450 1700 4500 1700
+	3550 1400 3500 1400
 Wire Wire Line
-	4450 1900 4500 1900
+	3550 1800 3500 1800
 Wire Wire Line
-	4450 2100 4500 2100
+	3550 2100 3500 2100
 $Comp
 L MRDT_Devices:LM2576D2TR4-3.3G U3
 U 1 1 5F6B6505
@@ -1583,16 +1583,11 @@ Wire Wire Line
 	1250 6800 1250 6950
 Wire Wire Line
 	1300 7100 1250 7100
-Connection ~ 1250 7100
-Wire Wire Line
-	1250 7100 1250 7250
 Wire Wire Line
 	1300 6950 1250 6950
 Connection ~ 1250 6950
 Wire Wire Line
 	1250 6950 1250 7100
-Wire Wire Line
-	2550 7300 2550 7350
 $Comp
 L power:+3.3V #PWR028
 U 1 1 5F752664
@@ -1648,17 +1643,10 @@ Wire Wire Line
 	3650 6850 3650 6950
 Connection ~ 3450 6950
 Wire Wire Line
-	3850 6950 3850 7050
-Wire Wire Line
-	3850 6950 4050 6950
-Connection ~ 3850 6950
-Wire Wire Line
 	4350 6950 4450 6950
 Wire Wire Line
 	4750 6950 4850 6950
 Connection ~ 3650 6950
-Wire Wire Line
-	3650 6950 3850 6950
 Wire Wire Line
 	3450 6950 3650 6950
 Wire Wire Line
@@ -1675,4 +1663,50 @@ Wire Notes Line
 	5350 4650 9450 4650
 Wire Notes Line
 	9450 450  9450 5650
+$Comp
+L power:GND #PWR0101
+U 1 1 5FA7BF1E
+P 1650 2600
+F 0 "#PWR0101" H 1650 2350 50  0001 C CNN
+F 1 "GND" H 1750 2550 50  0000 C CNN
+F 2 "" H 1650 2600 50  0001 C CNN
+F 3 "" H 1650 2600 50  0001 C CNN
+	1    1650 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 2600 1650 2600
+Wire Wire Line
+	1400 2650 1500 2650
+Wire Wire Line
+	1500 2650 1500 2600
+Wire Wire Line
+	3650 6950 3850 6950
+Wire Wire Line
+	3850 6950 4050 6950
+Connection ~ 3850 6950
+Wire Wire Line
+	3850 6950 3850 7050
+Wire Wire Line
+	2550 7300 2550 7350
+Connection ~ 1250 7100
+Wire Wire Line
+	1250 7100 1250 7250
+Wire Wire Line
+	1400 1300 1500 1300
+Wire Wire Line
+	1500 1300 1500 1200
+$Comp
+L power:GND #PWR0102
+U 1 1 5FAA2E1C
+P 1650 1200
+F 0 "#PWR0102" H 1650 950 50  0001 C CNN
+F 1 "GND" H 1750 1150 50  0000 C CNN
+F 2 "" H 1650 1200 50  0001 C CNN
+F 3 "" H 1650 1200 50  0001 C CNN
+	1    1650 1200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 1200 1650 1200
 $EndSCHEMATC
