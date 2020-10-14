@@ -395,9 +395,9 @@ Wire Wire Line
 	4050 900  4050 1000
 Wire Wire Line
 	3950 900  3950 1200
-Text GLabel 1450 1400 2    39   Output ~ 0
+Text GLabel 1450 1500 2    39   Output ~ 0
 REC_LED_ArmArticulation
-Text GLabel 1450 1700 2    39   Output ~ 0
+Text GLabel 1450 1800 2    39   Output ~ 0
 REC_LED_ScienceSensor
 Text GLabel 1450 2100 2    39   Output ~ 0
 REC_LED_ScienceActuation
@@ -405,13 +405,13 @@ Text GLabel 4000 1800 2    39   Output ~ 0
 REC_LED_Gimbal
 Text GLabel 4000 1400 2    39   Output ~ 0
 REC_LED_DriveCommand
-Text GLabel 1450 2850 2    39   Output ~ 0
+Text GLabel 1450 2950 2    39   Output ~ 0
 REC_LED_NavigationalControl
-Text GLabel 1450 3250 2    39   Output ~ 0
+Text GLabel 1450 3350 2    39   Output ~ 0
 REC_LED_12VDistribution
-Text GLabel 4000 3250 2    39   Output ~ 0
+Text GLabel 4000 3350 2    39   Output ~ 0
 REC_LED_BatteryManagement
-Text GLabel 4000 2750 2    39   Output ~ 0
+Text GLabel 4000 2850 2    39   Output ~ 0
 REC_LED_PackVoltageDistribution
 Text GLabel 4000 2100 2    39   Output ~ 0
 REC_LED_Multimedia
@@ -435,9 +435,9 @@ Wire Wire Line
 	4000 2750 3950 2750
 Wire Wire Line
 	4000 2100 3950 2100
-Text GLabel 1450 1500 2    39   Input ~ 0
+Text GLabel 1450 1400 2    39   Input ~ 0
 Send_ArmArticulation
-Text GLabel 1450 1800 2    39   Input ~ 0
+Text GLabel 1450 1700 2    39   Input ~ 0
 Send_ScienceSensor
 Text GLabel 1450 2000 2    39   Input ~ 0
 Send_ScienceActuation
@@ -445,13 +445,13 @@ Text GLabel 4000 1700 2    39   Input ~ 0
 Send_Gimbal
 Text GLabel 4000 1300 2    39   Input ~ 0
 Send_DriveCommand
-Text GLabel 1450 2950 2    39   Input ~ 0
+Text GLabel 1450 2850 2    39   Input ~ 0
 Send_NavigationalControl
-Text GLabel 1450 3350 2    39   Input ~ 0
+Text GLabel 1450 3250 2    39   Input ~ 0
 Send_12VDistribution
-Text GLabel 4000 3350 2    39   Input ~ 0
+Text GLabel 4000 3250 2    39   Input ~ 0
 Send_BatteryManagement
-Text GLabel 4000 2850 2    39   Input ~ 0
+Text GLabel 4000 2750 2    39   Input ~ 0
 Send_PackVoltageDistribution
 Text GLabel 4000 2000 2    39   Input ~ 0
 Send_Multimedia

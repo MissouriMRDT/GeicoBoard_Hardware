@@ -409,9 +409,9 @@ Text GLabel 1450 2850 2    39   Output ~ 0
 REC_LED_NavigationalControl
 Text GLabel 1450 3250 2    39   Output ~ 0
 REC_LED_12VDistribution
-Text GLabel 4000 3350 2    39   Output ~ 0
+Text GLabel 4000 3250 2    39   Output ~ 0
 REC_LED_BatteryManagement
-Text GLabel 4000 2850 2    39   Output ~ 0
+Text GLabel 4000 2750 2    39   Output ~ 0
 REC_LED_PackVoltageDistribution
 Text GLabel 4000 2100 2    39   Output ~ 0
 REC_LED_Multimedia
@@ -428,11 +428,11 @@ Wire Wire Line
 Wire Wire Line
 	1450 3250 1400 3250
 Wire Wire Line
-	4000 3350 3950 3350
+	4000 3250 3950 3250
 Wire Wire Line
 	1450 2850 1400 2850
 Wire Wire Line
-	4000 2850 3950 2850
+	4000 2750 3950 2750
 Wire Wire Line
 	4000 2100 3950 2100
 Text GLabel 1450 1500 2    39   Input ~ 0
@@ -449,9 +449,9 @@ Text GLabel 1450 2950 2    39   Input ~ 0
 Send_NavigationalControl
 Text GLabel 1450 3350 2    39   Input ~ 0
 Send_12VDistribution
-Text GLabel 4000 3250 2    39   Input ~ 0
+Text GLabel 4000 3350 2    39   Input ~ 0
 Send_BatteryManagement
-Text GLabel 4000 2750 2    39   Input ~ 0
+Text GLabel 4000 2850 2    39   Input ~ 0
 Send_PackVoltageDistribution
 Text GLabel 4000 2000 2    39   Input ~ 0
 Send_Multimedia
@@ -464,9 +464,9 @@ Wire Wire Line
 Wire Wire Line
 	1400 3350 1450 3350
 Wire Wire Line
-	3950 3250 4000 3250
+	3950 3350 4000 3350
 Wire Wire Line
-	3950 2750 4000 2750
+	3950 2850 4000 2850
 Wire Wire Line
 	3950 2000 4000 2000
 Wire Wire Line
@@ -617,7 +617,7 @@ U 1 1 5F7528C0
 P 3850 7400
 F 0 "J10" H 3750 7550 60  0000 R CNN
 F 1 "Test_Point" H 3900 7650 60  0000 R CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3850 7350 60  0001 C CNN
+F 2 "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm" H 3850 7350 60  0001 C CNN
 F 3 "" H 3850 7350 60  0001 C CNN
 	1    3850 7400
 	-1   0    0    1   
