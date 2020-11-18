@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:\GitHu\GeicoBoard_Hardware\Hardware\GiecoBoard_2021_Rev1\GiecoBoard_2021_Rev1.sch)
-    (date "16/11/2020 18:27:42")
+    (date "17/11/2020 19:59:28")
     (tool "Eeschema (5.0.0)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U1)
       (value TM4C129E_Launchpad)
-      (footprint MRDT_Shields:TM4C129E_Launchpad_FULL_THT_TOP)
+      (footprint MRDT_Shields:TM4C129E_Launchpad_FULL_THT_BOTTOM)
       (libsource (lib MRDT_Shields) (part TM4C129E_Launchpad) (description "TIVA C Full Headers"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5F63B540))

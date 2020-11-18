@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.762)
+    (last_trace_width 0.25)
     (user_trace_width 0.254)
     (user_trace_width 0.381)
     (user_trace_width 0.762)
@@ -4537,7 +4537,7 @@
     )
   )
 
-  (gr_text "Geico board Rev. 1\nMars Rover Design Team\nMissouri S&T, 2020\nSanfan Liu" (at 208.915 147.32) (layer F.SilkS)
+  (gr_text "Geico board Rev. 1\nMars Rover Design Team\nMissouri S&T, 2021\nSanfan Liu" (at 208.915 147.32) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 130.175 93.98) (end 130.175 88.9) (layer B.Paste) (width 0.2))

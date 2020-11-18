@@ -1506,7 +1506,7 @@ U 1 1 5F9008AA
 P 1900 6300
 F 0 "Conn1" H 2106 6687 60  0000 C CNN
 F 1 "AndersonPP" H 2106 6581 60  0000 C CNN
-F 2 "MRDT_Connectors:Anderson_2_Horizontal_Side_by_Side" H 1750 5750 60  0001 C CNN
+F 2 "MRDT_Connectors:Anderson_2_Vertical_Sidy_by_Side" H 1750 5750 60  0001 C CNN
 F 3 "" H 1750 5750 60  0001 C CNN
 	1    1900 6300
 	1    0    0    -1  
@@ -1713,7 +1713,7 @@ U 2 1 5F82C85C
 P 1900 6800
 F 0 "Conn1" H 2106 7187 60  0000 C CNN
 F 1 "AndersonPP" H 2106 7081 60  0000 C CNN
-F 2 "MRDT_Connectors:Anderson_2_Horizontal_Side_by_Side" H 1750 6250 60  0001 C CNN
+F 2 "MRDT_Connectors:Anderson_2_Vertical_Sidy_by_Side" H 1750 6250 60  0001 C CNN
 F 3 "" H 1750 6250 60  0001 C CNN
 	2    1900 6800
 	1    0    0    -1  
@@ -1902,8 +1902,8 @@ L Device:D_Schottky D22
 U 1 1 5FCCDD0F
 P 2550 7500
 F 0 "D22" H 2550 7716 50  0000 C CNN
-F 1 "D_Schottky" H 2550 7625 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 2550 7500 50  0001 C CNN
+F 1 "1n5582" H 2550 7625 50  0000 C CNN
+F 2 "Diode_THT:D_DO-201AD_P15.24mm_Horizontal" H 2550 7500 50  0001 C CNN
 F 3 "~" H 2550 7500 50  0001 C CNN
 	1    2550 7500
 	0    1    1    0   
